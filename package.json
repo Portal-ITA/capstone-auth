@@ -32,5 +32,8 @@
   "homepage": "https://bitbucket.org/jm4rc05/capstone-auth.git",
   "dependencies": {
     "ldapjs": "^2.2.2"
+  },
+  "scripts": {
+    "build": "true"
   }
 }
